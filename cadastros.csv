@@ -1,0 +1,68 @@
+﻿ID Categoria;Tipo;Natureza;Categoria;Column5;Tipo MovimentoOperacional?
+1;Saída;Despesas Bancárias;Despesas Financeiras;Variável;Operacional
+2;Entrada;Transporte de Grandes Volumes;Receitas de Serviços;Receita;Operacional
+3;Entrada;Viagens;Receitas de Produtos;Receita;Operacional
+4;Entrada;Aplicações Financeiras;Receitas Financeiras;Receita;Não Operacional
+5;Saída;Materiais e Embalagens;Custos;Variável;Operacional
+6;Saída;Passagens Aéreas;Custos;Variável;Operacional
+7;Saída;Hospedagem Sites;Despesas Administrativas;Fixo;Operacional
+8;Saída;Uber e Táxi;Custos;Variável;Operacional
+9;Saída;Hospedagem;Custos;Variável;Operacional
+10;Entrada;Transporte de Mercadorias;Receitas de Serviços;Receita;Operacional
+11;Saída;Reembolsos e Devoluções;Despesas Comerciais;Variável;Operacional
+12;Entrada;Transferência de Saída;Movimentações;Receita;Não Operacional
+13;Entrada;Transferência de Entrada;Movimentações;Receita;Não Operacional
+14;Saída;Licença ou Aluguel de Softwares;Despesas Administrativas;Fixo;Operacional
+15;Saída;Brindes;Despesas com Marketing e Publicidade;Variável;Operacional
+16;Saída;Anúncios e Propagandas;Despesas com Marketing e Publicidade;Variável;Operacional
+17;Saída;Taxa Escritório;Despesas Administrativas;Fixo;Operacional
+18;Saída;Material de Escritório;Despesas Administrativas;Fixo;Operacional
+19;Saída;Materiais e Equipamentos;Despesas Administrativas;Fixo;Não Operacional
+20;Saída;Aquisição de Equipamentos;Investimentos;Variável;Não Operacional
+21;Saída;Conta de Luz;Despesas Operacionais;Fixo;Operacional
+22;Saída;Coffee Break;Despesas Comerciais;Variável;Operacional
+23;Entrada;Saldo Inicial;;;Operacional
+24;Saída;Cursos e Treinamentos;Gastos com Pessoal;Fixo;Operacional
+25;Entrada;Apoio Aduaneiro;Receitas de Serviços;Receita;Operacional
+26;Entrada;Aporte Financeiro;Receitas Financeiras;Receita;Não Operacional
+27;Saída;Agência de Publicidade;Despesas com Marketing e Publicidade;Variável;Operacional
+28;Saída;Impostos - Principal;Despesas Tributárias;Variável;Operacional
+29;Saída;Seguros;Despesas Operacionais;Fixo;Não Operacional
+30;Saída;Planos de Saúde;Gastos com Pessoal;Fixo;Operacional
+31;Entrada;Locação;Receitas de Serviços;Receita;Operacional
+32;Saída;Comissão Vendedores;Despesas Comerciais;Variável;Operacional
+33;Saída;Aluguel Comercial;Despesas Operacionais;Fixo;Operacional
+34;Saída;Contabilidade;Despesas Administrativas;Fixo;Operacional
+35;Saída;Fretes;Despesas Logísticas;Variável;Operacional
+36;Saída;Armazenagem de Estoque;Despesas Logísticas;Variável;Operacional
+37;Saída;Locação;Despesas Comerciais;Variável;Operacional
+38;Saída;Telefonia;Despesas Administrativas;Fixo;Operacional
+39;Saída;Prestador de Serviço;Despesas Administrativas;Variável;Operacional
+40;Saída;Impostos - Outros;Despesas Tributárias;Variável;Operacional
+41;Saída;Outras Despesas Não Categorizadas;Despesas Gerais;Variável;Operacional
+42;Saída;Fabricação de Produtos;Custos;Variável;Operacional
+43;Saída;Inscrições em Eventos;Gastos com Pessoal;Fixo;Operacional
+44;Saída;Salário Terceiros;Gastos com Pessoal;Fixo;Operacional
+45;Saída;Documentações;Despesas Administrativas;Fixo;Operacional
+46;Entrada;Projetos;Receitas de Serviços;Receita;Operacional
+47;Saída;Ajuste Caixa;Despesas Gerais;Variável;Não Operacional
+48;Saída;Alimentação (Almoço, Cafés);Despesas Operacionais;Variável;Operacional
+49;Saída;Locação de Carro;Despesas Comerciais;Variável;Operacional
+50;Saída;Hospedagem;Custos;Variável;Operacional
+51;Saída;Passagens Aéreas;Custos;Variável;Operacional
+52;Saída;Impressões Gerais;Despesas Administrativas;Variável;Operacional
+53;Saída;Uber e Táxi;Despesas Operacionais;Variável;Operacional
+54;Saída;Patrocínios;Despesas com Marketing e Publicidade;Variável;Operacional
+55;Saída;Criação Material Publicitário;Despesas com Marketing e Publicidade;Variável;Operacional
+56;Saída;Taxas e Juros;Despesas Financeiras;Variável;Não Operacional
+57;Saída;Salário Funcionários;Gastos com Pessoal;Fixo;Operacional
+58;Saída;Mobiliário;Despesas Administrativas;Variável;Operacional
+59;Saída;Empreita;Despesas Administrativas;Variável;Operacional
+60;Saída;Quilometragem e Pedágios;Custos;Variável;Operacional
+61;Saída;Locação de Carro;Despesas Operacionais;Variável;Operacional
+62;Saída;Domínios Internet;Despesas Administrativas;Fixo;Operacional
+63;Saída;Internet;Despesas Administrativas;Fixo;Operacional
+64;Saída;Comissão Vendedores;Despesas Comerciais;Variável;Operacional
+65;Saída;Locação de Equipamentos;Despesas com Marketing e Publicidade;Variável;Operacional
+66;Saída;Vale Alimentação;Gastos com Pessoal;Fixo;Operacional
+67;Saída;Material de Limpeza e Higiene;Despesas Gerais;Fixo;Operacional
