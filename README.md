@@ -1,6 +1,6 @@
 ![image](https://github.com/AlbertoFAraujo/PBI_Financeiro/assets/105552990/19295ea4-f4a0-483f-8063-7ed45fd6837b)
 
-**Link da aplicação:** [Dashboard_financeiro](https://app.powerbi.com/view?r=eyJrIjoiOTliOTFjZWItMDk1Ny00MjgyLThmN2YtNmE0ZjRjODRjNzNhIiwidCI6IjFlNDMyOWIyLWNiOWYtNDM0Yy1iM2FjLTBhMmFiMTAxNTRlZiJ9)
+**Link da aplicação:** [Dashboard_financeiro](https://app.powerbi.com/view?r=eyJrIjoiYWU0MTNkNWEtNjJmOS00ZDRjLWE1MmMtYzIwMThiNjE5MGE2IiwidCI6IjFlNDMyOWIyLWNiOWYtNDM0Yy1iM2FjLTBhMmFiMTAxNTRlZiJ9)
 
 ### Tecnologias utilizadas: 
 | [<img align="center" alt="Power bi" height="60" width="60" src="https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/d239f769-5b2a-4cf0-8198-441a8adcbda0">](https://powerbi.microsoft.com/pt-br/desktop/) | [<img align="center" alt="Figma" height="60" width="60" src="https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/41c4197b-df11-4c43-8b84-6af9f1edbddb">](https://www.streamlit.io/) | [<img align="center" alt="DAX Studio" height="60" width="60" src="https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/e2c6fb50-3e25-4a91-91c1-5c3262c083c4">]() | [<img align="center" alt="Power Query" height="60" width="60" src="https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/b41eddea-d513-4e3b-82de-d1dab2897e88">]() | 
