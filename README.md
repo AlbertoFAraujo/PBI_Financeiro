@@ -34,6 +34,5 @@ Dashboard Financeiro é composto por 2 painéis indicadores:
 
 ### Projeto Final:
 ![Capturar_2024_07_03_01_52_31_622](https://github.com/AlbertoFAraujo/PBI_Financeiro/assets/105552990/d29791eb-9738-4f88-826d-baef3f1f2b74)
-![Capturar_2024_07_03_01_52_53_830](https://github.com/AlbertoFAraujo/PBI_Financeiro/assets/105552990/f89b9518-d918-4c74-92cc-49ab9397e6d7)
-![Capturar_2024_07_03_01_53_55_434](https://github.com/AlbertoFAraujo/PBI_Financeiro/assets/105552990/3ee1c78d-12e9-4014-b96c-01560d303289)
-
+![pg1](https://github.com/user-attachments/assets/c3d9a05c-d259-421f-b9e8-ed4016a819fa)
+![2024-07-14_23h52_23](https://github.com/user-attachments/assets/6b55adf7-efd8-4439-aa93-788510824119)
